@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**ChaoyuWang04/ChaoyuWang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chaoyu Wang 👋
 
-Here are some ideas to get you started:
+I'm an AI/ML engineer focused on **LLM alignment and fine-tuning**,  
+currently self-studying at UC Berkeley and building toward AI research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 What I'm working on
+- Agent SFT pipelines with LoRA fine-tuning (Qwen3, custom tool-call alignment)
+- RAG systems with hybrid retrieval (BM25 + Dense, Cross-Encoder reranking)
+- GRPO/RLHF alignment for domain-specific LLMs
+
+## 🛠️ Tech Stack
+**ML/AI:** PyTorch · HuggingFace Transformers · vLLM · LLaMA Factory  
+**Infra:** RunPod · FastAPI · Docker  
+**Dev:** Python · Next.js · PostgreSQL
+
+## 🎓 Background
+- M.S. Engineering & Applied Mathematics — Northwestern University (2025)
+- B.S. Applied Mathematics - University of California, San Diego (2024)
+- Ex-intern @ GuruGame HK (AI product)
+
+## 📫 Reach me
+[![Email](https://img.shields.io/badge/Email-samuelwang997%40gmail.com-blue)](mailto:samuelwang997@gmail.com)
 -->
