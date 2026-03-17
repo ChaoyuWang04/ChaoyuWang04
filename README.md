@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Chaoyu Wang 👋
 
 I'm an AI/ML engineer focused on **LLM alignment and fine-tuning**,  
@@ -23,4 +20,3 @@ currently self-studying at UC Berkeley and building toward AI research.
 
 ## 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-samuelwang997%40gmail.com-blue)](mailto:samuelwang997@gmail.com)
--->
