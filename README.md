@@ -20,3 +20,4 @@ currently self-studying at UC Berkeley and building toward AI research.
 
 #### 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-samuelwang997%40gmail.com-blue)](mailto:samuelwang997@gmail.com)
+[![Website](https://img.shields.io/badge/Website-chaoyuwang04.github.io-brightgreen?style=flat&logo=github)](https://chaoyuwang04.github.io)
