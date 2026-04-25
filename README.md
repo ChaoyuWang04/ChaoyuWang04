@@ -16,7 +16,6 @@ currently self-studying at UC Berkeley and building toward AI research.
 #### 🎓 Background
 - M.S. Engineering & Applied Mathematics — Northwestern University (2025)
 - B.S. Applied Mathematics - University of California, San Diego (2024)
-- Ex-intern @ GuruGame HK
 
 #### 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-samuelwang997%40gmail.com-blue)](mailto:samuelwang997@gmail.com)
