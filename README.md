@@ -23,6 +23,5 @@ Seeking **PhD / RA opportunities** in LLM alignment & systems (Fall 2027).
 - B.S. Applied Mathematics — University of California, San Diego (2024)
 
 #### 📫 Reach me
-[![Email](https://img.shields.io/badge/Email-samuelwang997%40gmail.com-blue)](mailto:samuelwang997@gmail.com)
-[![Website](https://img.shields.io/badge/Website-chaoyuwang.vercel.app-brightgreen)](https://chaoyuwang.vercel.app/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-SamWang0405-yellow)](https://huggingface.co/SamWang0405)
+
+✉️ [samuelwang997@gmail.com](mailto:samuelwang997@gmail.com) &nbsp;·&nbsp; 🌐 [chaoyuwang.vercel.app](https://chaoyuwang.vercel.app) &nbsp;·&nbsp; 🤗 [huggingface.co/SamWang0405](https://huggingface.co/SamWang0405)
