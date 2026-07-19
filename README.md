@@ -24,5 +24,5 @@ Seeking **PhD / RA opportunities** in LLM alignment & systems (Fall 2027).
 
 #### 📫 Reach me
 [![Email](https://img.shields.io/badge/Email-samuelwang997%40gmail.com-blue)](mailto:samuelwang997@gmail.com)
-[![Website](https://img.shields.io/badge/Website-chaoyuwang.vercel.app-brightgreen?style=flat&logo=vercel)](https://chaoyuwang.vercel.app/)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-SamWang0405-yellow)](https://huggingface.co/SamWang0405)
+[![Website](https://img.shields.io/badge/Website-chaoyuwang.vercel.app-brightgreen)](https://chaoyuwang.vercel.app/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-SamWang0405-yellow)](https://huggingface.co/SamWang0405)
